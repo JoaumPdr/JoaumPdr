@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Pedro Escobar (jp), tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software no Inatel. Sou apaixonado por tecnologia, entusiasta da area de machine learning, desenvolimento de I.A e compartilho meu conhecimento através do meu github.
+Me chamo João Pedro Escobar (jp), tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software no Inatel. Sou apaixonado por tecnologia, entusiasta da área de machine learning, desenvolvimento de I.A e compartilho meu conhecimento através do meu github.
 
 <p align="left">
     <a href="https://github.com/JoaumPdr?tab=repositories&sort=stargazers">
@@ -45,25 +45,25 @@ Me chamo João Pedro Escobar (jp), tenho 20 anos e sou natural do Rio de Janeiro
   <img title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JoaumPdr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaumPdr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="180" 
+        src="https://github-readme-stats.vercel.app/api?username=JoaumPdr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Langs" 
+        height="180" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaumPdr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      />
+    </td>
+  </tr>
+</table>
