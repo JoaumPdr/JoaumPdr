@@ -25,7 +25,7 @@ Me chamo João Pedro Escobar (jp), tenho 20 anos e sou natural do Rio de Janeiro
 
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;">
     <img title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
