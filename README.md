@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Pedro Escobar (jp), tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software no Inatel. Sou apaixonado por tecnologia, intusiasta da area de machine learning, desenvolimento de I.A e compartilho meu conhecimento através do meu github.
+Me chamo João Pedro Escobar (jp), tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software no Inatel. Sou apaixonado por tecnologia, entusiasta da area de machine learning, desenvolimento de I.A e compartilho meu conhecimento através do meu github.
 
 <p align="left">
     <a href="https://github.com/JoaumPdr?tab=repositories&sort=stargazers">
