@@ -1,4 +1,6 @@
-<img src = "persona_github_banner.jpg"/>
+<p align="center">
+  <img src="persona_github_banner.jpg" style="max-width: 100%; height: auto;" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaumpdr/" target="_blank">
@@ -17,21 +19,32 @@
 
 <h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
-<br/>
+<table>
+  <tr>
+    <td width="70%">
 
-<p>
 My name is João Pedro Escobar (jp), I am 21 years old and I am from Brazil. Currently, I am studying Software Engineering at Inatel. I am passionate about technology, an enthusiast of machine learning and AI development, and I share my knowledge through my GitHub.
-</p>
 
-
-<br/>
+<br/><br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the Instituto Nacional de Telecomunicações (INATEL) </b></em> <br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Winner of the 44º FETIN (2025) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
+   <img src="/imgs/img3.png" width="15"/> <em><b>Studying at the Instituto Nacional de Telecomunicações (INATEL)</b></em><br/>
+   <img src="/imgs/img2.png" width="15"/> <em><b>Winner of the 44º FETIN (2025)</b></em><br/>
+   <img src="/imgs/img1.png" width="15"/> <em><b>Chess Player</b></em>
 </p>
+
+   </td>
+
+   <td width="30%" align="center">
+
+<img 
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25paWsxamZlcXV1Z2xiN2c3YzZ4Nm9jMXl6aHE5bnpscGk1c3RiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif"
+  width="250"
+/>
+
+   </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
