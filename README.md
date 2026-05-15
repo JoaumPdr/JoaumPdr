@@ -71,5 +71,7 @@ My name is João Pedro Escobar (JP), I am 21 years old, and I am from Brazil. I 
 <h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaumPdr&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-
+<br>
+<img src="https://i.pinimg.com/1200x/3d/c3/d2/3dc3d26d02d666ab5b664c8d039f4b2f.jpg" width= 47% </> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoaumPdr&theme=highcontrast" alt="GitHub Streak" width= 49.5% /></a>
+  
 </div>
