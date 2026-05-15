@@ -23,7 +23,7 @@
   <tr>
     <td width="70%">
 
-My name is João Pedro Escobar (jp), I am 21 years old and I am from Brazil. Currently, I am studying Software Engineering at Inatel. I am passionate about technology, an enthusiast of machine learning and AI development, and I share my knowledge through my GitHub.
+My name is João Pedro Escobar (JP), I am 21 years old, and I am from Brazil. I am currently studying Software Engineering at Inatel. I am a Full Stack Developer passionate about technology, as well as an enthusiast of Machine Learning and AI development. I enjoy building modern solutions, exploring new technologies, and sharing knowledge through my GitHub.
 
 <br/><br/>
 
