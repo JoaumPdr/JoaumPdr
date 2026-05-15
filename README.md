@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="persona_github_banner.jpg" style="max-width: 100%; height: auto;" />
+  <img src="" style="max-width: 100%; height: auto;" />
 </p>
 
 <p align="center">
